@@ -2,38 +2,30 @@
 
 A simple and interactive **command-line To-do List app** built with **Node.js**. Manage your tasks directly from the terminal with local JSON-based persistence and a user-friendly experience enhanced with emojis.
 
+> 🧩 **This project was developed as part of the**
+> **Workforce Opportunity Services (WOS) – Technology Talent Development Program in partnership with Auto Club Enterprises (ACE)**
+> A 14-week intensive initiative that combines enterprise-level technical training, hands-on project work, and agile team simulations.
+
 ---
 
 ## 🚀 Features
 
--   📋 View all tasks
--   ✅ Add new tasks
--   ✏️ Update task descriptions
--   🗑️ Delete tasks
--   🔁 Mark tasks as completed or incomplete
--   💾 Data persistence using a local JSON file (`tasksData.json`)
--   😎 Clean console interface with menu options and emojis
+* 📋 View all tasks
+* ✅ Add new tasks
+* ✏️ Update task descriptions
+* 🗑️ Delete tasks
+* 🔁 Mark tasks as completed or incomplete
+* 💾 Local data persistence using `tasksData.json`
+* 😎 Console-based user experience with emoji-enhanced prompts
 
 ---
 
 ## 📦 Installation
 
-1. Clone the repository:
-
 ```bash
 git clone https://github.com/blazo-dev/todo-list-node-cli.git
 cd todo-list-node-cli
-```
-
-2. Install dependencies:
-
-```bash
 npm install
-```
-
-3. Run the app:
-
-```bash
 npm start
 ```
 
@@ -56,10 +48,10 @@ npm start
 
 ## 💻 How It Works
 
-1. When you run the app, a menu is displayed with options.
-2. Choose an action (e.g. add a task, view tasks).
-3. The task list is saved in a local JSON file so your data persists across sessions.
-4. After each operation, the menu is shown again unless you choose to exit.
+1. Launch the app from the terminal.
+2. A menu of actions is displayed.
+3. Choose an action: view, add, update, complete, or delete tasks.
+4. All changes are saved locally and persist between sessions.
 
 ---
 
@@ -80,29 +72,38 @@ npm start
 👉 Choose an option (1-6):
 ```
 
-### Task display example:
+Task list example:
 
 ```
 [1]: [X] Learn Node.js
-[2]: [ ] Finish homework
+[2]: [ ] Build CLI app
 ```
 
 ---
 
 ## ✅ Requirements
 
--   Node.js v18 or higher
+* Node.js v18 or higher
 
 ---
 
-## 🛠 Technologies Used
+## 📚 About the Program
 
--   Node.js with ES Modules
--   `readline/promises` for input
--   `fs/promises` for file handling
+This project is part of the **Workforce Opportunity Services (WOS)** program in collaboration with **Auto Club Enterprises (ACE)** — a 14-week intensive training initiative aimed at preparing high-potential developers to join real-world software projects.
+
+**Key components of the program:**
+
+* 🛠️ Training in JavaScript, React, C#/.NET, Python, and SQL
+* 💻 Hands-on projects simulating real dev team workflows
+* ✅ Algorithm challenges, code reviews, and agile practices
+* 🎓 Final full-stack presentation to ACE technical leadership
+* 📍 Based in Dallas, TX with hybrid virtual/in-person sessions
+
+> **Participant Role:** Junior Software Developer (Trainee)
+> **Outcome:** Potential full-time placement at **ACE**
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [ISC License](https://opensource.org/licenses/ISC). Feel free to use, modify, and distribute it.
+This project is licensed under the [ISC License](https://opensource.org/licenses/ISC). You are free to use and modify it.
