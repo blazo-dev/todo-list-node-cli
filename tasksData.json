@@ -1,0 +1,20 @@
+{
+  "nextTaskId": 5,
+  "tasks": [
+    {
+      "id": 1,
+      "desc": "Learn Node.js",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "desc": "Build a CLI app",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "desc": "Test the app thoroughly",
+      "isCompleted": true
+    }
+  ]
+}
