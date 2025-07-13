@@ -2,21 +2,20 @@
 
 A simple and interactive **command-line To-do List app** built with **Node.js**. Manage your tasks directly from the terminal with local JSON-based persistence and a user-friendly experience enhanced with emojis.
 
-> 🧩 **This project was developed as part of the**
-> **Workforce Opportunity Services (WOS) – Technology Talent Development Program in partnership with Auto Club Enterprises (ACE)**
+> 🧩 **This project was developed as part of the** > **Workforce Opportunity Services (WOS) – Technology Talent Development Program in partnership with Auto Club Enterprises (ACE)**
 > A 14-week intensive initiative that combines enterprise-level technical training, hands-on project work, and agile team simulations.
 
 ---
 
 ## 🚀 Features
 
-* 📋 View all tasks
-* ✅ Add new tasks
-* ✏️ Update task descriptions
-* 🗑️ Delete tasks
-* 🔁 Mark tasks as completed or incomplete
-* 💾 Local data persistence using `tasksData.json`
-* 😎 Console-based user experience with emoji-enhanced prompts
+-   📋 View all tasks
+-   ✅ Add new tasks
+-   ✏️ Update task descriptions
+-   🗑️ Delete tasks
+-   🔁 Mark tasks as completed or incomplete
+-   💾 Local data persistence using `tasksData.json`
+-   😎 Console-based user experience with emoji-enhanced prompts
 
 ---
 
@@ -83,7 +82,7 @@ Task list example:
 
 ## ✅ Requirements
 
-* Node.js v18 or higher
+-   Node.js v18 or higher
 
 ---
 
@@ -93,11 +92,11 @@ This project is part of the **Workforce Opportunity Services (WOS)** program in 
 
 **Key components of the program:**
 
-* 🛠️ Training in JavaScript, React, C#/.NET, Python, and SQL
-* 💻 Hands-on projects simulating real dev team workflows
-* ✅ Algorithm challenges, code reviews, and agile practices
-* 🎓 Final full-stack presentation to ACE technical leadership
-* 📍 Based in Dallas, TX with hybrid virtual/in-person sessions
+-   🛠️ Training in JavaScript, React, C#/.NET, Python, and SQL
+-   💻 Hands-on projects simulating real dev team workflows
+-   ✅ Algorithm challenges, code reviews, and agile practices
+-   🎓 Final full-stack presentation to ACE technical leadership
+-   📍 Based in Dallas, TX with hybrid virtual/in-person sessions
 
 > **Participant Role:** Junior Software Developer (Trainee)
 > **Outcome:** Potential full-time placement at **ACE**
@@ -107,3 +106,12 @@ This project is part of the **Workforce Opportunity Services (WOS)** program in 
 ## 📄 License
 
 This project is licensed under the [ISC License](https://opensource.org/licenses/ISC). You are free to use and modify it.
+
+---
+
+## 🙌 Acknowledgements
+
+[**Workforce Opportunity Services (WOS)**](https://www.linkedin.com/company/workforce-opportunity-services)
+Technology Talent Development Program in partnership with [**Auto Club Enterprises (ACE)**](https://www.linkedin.com/company/aaa-auto-club-enterprises/).
+
+Created with 💻 and ☕ by [Bryan Lazo](https://github.com/blazo-dev).
