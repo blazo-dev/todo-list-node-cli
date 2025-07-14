@@ -86,23 +86,6 @@ Task list example:
 
 ---
 
-## 📚 About the Program
-
-This project is part of the **Workforce Opportunity Services (WOS)** program in collaboration with **Auto Club Enterprises (ACE)** — a 14-week intensive training initiative aimed at preparing high-potential developers to join real-world software projects.
-
-**Key components of the program:**
-
--   🛠️ Training in JavaScript, React, C#/.NET, Python, and SQL
--   💻 Hands-on projects simulating real dev team workflows
--   ✅ Algorithm challenges, code reviews, and agile practices
--   🎓 Final full-stack presentation to ACE technical leadership
--   📍 Based in Dallas, TX with hybrid virtual/in-person sessions
-
-> **Participant Role:** Junior Software Developer (Trainee)
-> **Outcome:** Potential full-time placement at **ACE**
-
----
-
 ## 📄 License
 
 This project is licensed under the [ISC License](https://opensource.org/licenses/ISC). You are free to use and modify it.
@@ -112,6 +95,6 @@ This project is licensed under the [ISC License](https://opensource.org/licenses
 ## 🙌 Acknowledgements
 
 [**Workforce Opportunity Services (WOS)**](https://www.linkedin.com/company/workforce-opportunity-services)
-Technology Talent Development Program in partnership with [**Auto Club Enterprises (ACE)**](https://www.linkedin.com/company/aaa-auto-club-enterprises/).
+[**Auto Club Enterprises (ACE)**](https://www.linkedin.com/company/aaa-auto-club-enterprises/).
 
 Created with 💻 and ☕ by [Bryan Lazo](https://github.com/blazo-dev).
